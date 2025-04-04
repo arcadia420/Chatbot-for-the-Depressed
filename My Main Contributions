@@ -1,0 +1,6 @@
+## Maintainer Notes
+
+This fork showcases my infrastructure role in the team:
+- Deployed the Vultr server
+- Integrated OpenAI API
+- Handled chatbot quota/performance testing
